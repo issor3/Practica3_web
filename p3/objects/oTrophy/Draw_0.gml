@@ -1,6 +1,6 @@
-// En el evento Draw de un objeto en la habitación donde quieres mostrar los datos
+
 draw_self();
-var y_offset =60; // Espaciado vertical
+var y_offset =60; 
 
 
 for (var i = 0; i < array_length(global.tabla); i++) {
